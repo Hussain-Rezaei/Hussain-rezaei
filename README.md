@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Hussain</h1>
 <h3 align="center">A happy frontend developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hussain_rezaei&theme=" alt="hussain_rezaei" /></a> </p>
-
 
 - 📫 How to reach me **rezaei.hussain1996@gmail.com**
 
