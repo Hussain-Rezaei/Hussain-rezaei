@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hussain Rezaei</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align=“right” alt=“coding-gif” width=“400” src=“[https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif](https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif)”>
-<iframe src="https://giphy.com/embed/dxODB9UE879RDqAh3o" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GDevs-dev-chrome-summit-dxODB9UE879RDqAh3o">via GIPHY</a></p>
+<img align=“right” alt=“coding-gif” width=“400” src="https://giphy.com/embed/dxODB9UE879RDqAh3o">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hussain-rezaei&label=Profile%20views&color=0e75b6&style=flat" alt="hussain-rezaei" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hussain-rezaei" alt="hussain-rezaei" /></a> </p>
