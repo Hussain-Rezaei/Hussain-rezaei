@@ -3,6 +3,10 @@
 <h1 align="center">Hi 👋, I'm Hussain</h1>
 <h3 align="center">A happy frontend developer</h3>
 
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=farhadi&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide=issues,contribs">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=farhadi&layout=compact&hide_border=true&langs_count=10&hide=html,css">
+</p>
 </div><h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
