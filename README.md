@@ -2,8 +2,9 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="left">Hi 👋, I'm Hussain</h1>
 <h3 align="left">A happy frontend developer</h3>
-
-
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&color=306998&background=FFE873&center=true&vCenter=true&lines=Send+a+connection+request!;I+love+connecting+with+you">
+</p>
 </div><h3 align="center">Languages and Tools:</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="70" height="70"/>
