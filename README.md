@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hussain Rezaei</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align=“right” alt=“coding-gif” width=“400” src="[[[https://giphy.com/embed/dxODB9UE879RDqAh3o](https://giphy.com/stickers/GDevs-dev-chrome-summit-dxODB9UE879RDqAh3o?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=&ref=fave)](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM283ZTZ0b2tuM2Z4MG5vY3M1aWkyZmthbmdlZHVoaDlkcW9ldzRtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dxODB9UE879RDqAh3o/giphy.gif)](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM283ZTZ0b2tuM2Z4MG5vY3M1aWkyZmthbmdlZHVoaDlkcW9ldzRtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dxODB9UE879RDqAh3o/giphy.gif)">
+<img align=“right” alt=“coding-gif” width=“400” src="["](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM283ZTZ0b2tuM2Z4MG5vY3M1aWkyZmthbmdlZHVoaDlkcW9ldzRtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dxODB9UE879RDqAh3o/giphy.gif)>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hussain-rezaei&label=Profile%20views&color=0e75b6&style=flat" alt="hussain-rezaei" /> </p>
 
