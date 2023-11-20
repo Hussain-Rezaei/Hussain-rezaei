@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hussain Rezaei</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align=“center” alt=“coding” width=“150px” src="https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif">
+<img align=“center” alt=“coding” src="https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hussain-rezaei&label=Profile%20views&color=0e75b6&style=flat" alt="hussain-rezaei" /> </p>
 
