@@ -1,9 +1,8 @@
 
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi, I'm Hussain<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
----
-&nbsp;
 
+&nbsp;
 ###  &nbsp;Connect with me:
 
 <p align="left">
@@ -12,9 +11,9 @@
 
 <br>
 <br>
----
-&nbsp;
 
+
+&nbsp;
 ###  &nbsp;Languages and Tools:
 
 <p align="left">
