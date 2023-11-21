@@ -5,8 +5,8 @@
 # My status in Github:
 
 <p align = "center">
-<img src = "https://github-readme-stats.vercel.app/api?username=hussain-rezaei&show_icons=true&line_height=20"/>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hussain-rezaei"/>
+<img src = "https://github-readme-stats.vercel.app/api?username=hussain-rezaei&show_icons=true&line_height=20" width="50" height="50"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hussain-rezaei"width="50" height="50"/>
 </p>
 
 &nbsp;
