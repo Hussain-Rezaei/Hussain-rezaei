@@ -6,7 +6,7 @@
 ## 🤝 &nbsp;Connect with me
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&color=306998&background=FFE873&center=true&vCenter=true&lines=Send+an+email;to+contact+me">
-  <h2>hussain.rezaei75@gmail.com/h2>
+  <h2>hussain.rezaei75@gmail.com</h2>
 </p>
 
 </div><h3 align="center">Languages and Tools:</h3>
