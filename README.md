@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Hussain<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
 &nbsp;
-###  &nbsp;Connect with me:
+#  &nbsp;Connect with me:
 
 <p align="left">
 <a href="https://hussain.rezaei75@gmail.com" target="_blank" rel="nofollow"><img align="left" alt="Hussain-email" src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&color=306998&background=FFE873&center=true&vCenter=true&lines=Send+me+an+email"/></a>
@@ -14,7 +14,7 @@
 
 
 &nbsp;
-###  &nbsp;Languages and Tools:
+#  &nbsp;Languages and Tools:
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="50" height="50"/>
