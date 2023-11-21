@@ -11,7 +11,7 @@
 
 
 &nbsp;
-<div>## 🧰 &nbsp;Languages and Tools/div>
+<div>## 🧰 &nbsp;Languages and Tools</div>
 
 
 <p align="center">
