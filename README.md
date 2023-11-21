@@ -2,6 +2,13 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi, I'm Hussain<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h1>
 
+# My status in Github:
+
+<p align = "center">
+<img src = "https://github-readme-stats.vercel.app/api?username=hussain-rezaei&show_icons=true&line_height=20">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hussain-rezaei">
+</p>
+
 &nbsp;
 #  &nbsp;Connect with me:
 
