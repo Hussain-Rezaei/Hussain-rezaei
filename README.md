@@ -36,6 +36,6 @@
 
 # quotes
 <p align="center">
-<img alt="quotes" src="https://file.io/8oqHE4bQUNg5" width="700"/>
+<img alt="quotes" src="qoute.png" width="700"/>
 </p>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
