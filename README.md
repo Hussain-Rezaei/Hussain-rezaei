@@ -9,9 +9,11 @@
 <a href="https://hussain.rezaei75@gmail.com" target="_blank" rel="nofollow"><img align="left" alt="Hussain-email" src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&color=306998&background=FFE873&center=true&vCenter=true&lines=Send+me+an+email"/></a>
 </p>
 
+<br>
 
 &nbsp;
-<div>## 🧰 &nbsp;Languages and Tools</div>
+
+## 🧰 &nbsp;Languages and Tools
 
 
 <p align="center">
