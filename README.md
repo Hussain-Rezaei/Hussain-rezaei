@@ -35,6 +35,6 @@
 
 
 # quotes
-<img alt="quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
+<img alt="quotes" src="https://file.io/8oqHE4bQUNg5"/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
