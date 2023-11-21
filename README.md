@@ -1,13 +1,12 @@
 
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="left">Hi 👋, I'm Hussain</h1>
-<h3 align="left">A happy frontend developer</h3>
+<h1 align="center">Hi 👋, I'm Hussain</h1>
 
 &nbsp;
-
 ## 🤝 &nbsp;Connect with me
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&color=306998&background=FFE873&center=true&vCenter=true&lines=Send+an+email;to+contact+me">
+  - 📫 How to reach me: PouriaShafieeit@gmail.com
 </p>
 
 </div><h3 align="center">Languages and Tools:</h3>
